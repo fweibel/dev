@@ -4,5 +4,3 @@ var client = function(){
 	this.mail = "";
 	
 }
-
-### Ajouter ici la creation de l'UI ###
