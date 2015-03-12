@@ -1,0 +1,23 @@
+{
+	"author": {
+		"name": "Fatfish Animation",
+		"email": "",
+		"url": ""
+	},
+	"name": "framework",
+	"main": "server.js",
+	"description": "dhdg",
+	"version": "0.0.1",
+	"homepage": "",
+	"dependencies": {
+		"body-parser": "^1.7.0",
+		"ejs": "^1.0.0",
+		"express": "4.11.0",
+		"express-session": "1.10.1",
+		"socket.io": "1.0.6",
+		"arangojs": "3.0.0"
+	},
+	"engines": {
+		"node": "0.6.x"
+	}
+}
